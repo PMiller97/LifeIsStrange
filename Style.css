@@ -20,7 +20,10 @@ nav#navvy.navbar.navbar-static-top {
 #navvy a:hover {
     background:none;
 }
-.jumbotron mainSec {
-    text-align:right;
 
+/*TRAILER SECTION*/
+.mainSec {
+    background-image: url('images/junkyard.jpg');
+    background-size:cover;
+    text-align:right;
 }
