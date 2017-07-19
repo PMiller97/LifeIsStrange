@@ -20,3 +20,7 @@ nav#navvy.navbar.navbar-static-top {
 #navvy a:hover {
     background:none;
 }
+.jumbotron mainSec {
+    text-align:right;
+
+}
